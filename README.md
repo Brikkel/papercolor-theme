@@ -89,7 +89,7 @@ In **8 color** and **4 color** terminals, they might lack the necessary variatio
 |--- | -----                                                        | -------|---------| -----                                                        | -------|---------|
 | 0  |![#eeeeee](https://place-hold.it/100x40/eeeeee/000000?text=+) |  255   | #eeeeee |![#1c1c1c](https://place-hold.it/100x40/1c1c1c/000000?text=+) |  234   | #1c1c1c |
 | 1  |![#af0000](https://place-hold.it/100x40/af0000/000000?text=+) |  124   | #af0000 |![#974070](https://place-hold.it/100x40/974070/000000?text=+) |  125   | #974070 |
-| 2  |![#008700](https://place-hold.it/100x40/008700/000000?text=+) |  28    | #008700 |![#5faf00](https://place-hold.it/100x40/5faf00/000000?text=+) |  70    | #5faf00 |
+| 2  |![#008700](https://place-hold.it/100x40/008700/000000?text=+) |  28    | #008700 |![#709840](https://place-hold.it/100x40/709840/000000?text=+) |  70    | #709840 |
 | 3  |![#5f8700](https://place-hold.it/100x40/5f8700/000000?text=+) |  64    | #5f8700 |![#d7af5f](https://place-hold.it/100x40/d7af5f/000000?text=+) |  179   | #d7af5f |
 | 4  |![#0087af](https://place-hold.it/100x40/0087af/000000?text=+) |  31    | #0087af |![#5fafd7](https://place-hold.it/100x40/5fafd7/000000?text=+) |  74    | #5fafd7 |
 | 5  |![#878787](https://place-hold.it/100x40/878787/000000?text=+) |  102   | #878787 |![#808080](https://place-hold.it/100x40/808080/000000?text=+) |  244   | #808080 |
@@ -97,10 +97,10 @@ In **8 color** and **4 color** terminals, they might lack the necessary variatio
 | 7  |![#444444](https://place-hold.it/100x40/444444/000000?text=+) |  238   | #444444 |![#d0d0d0](https://place-hold.it/100x40/d0d0d0/000000?text=+) |  252   | #d0d0d0 |
 | 8  |![#bcbcbc](https://place-hold.it/100x40/bcbcbc/000000?text=+) |  250   | #bcbcbc |![#585858](https://place-hold.it/100x40/585858/000000?text=+) |  240   | #585858 |
 | 9  |![#d70000](https://place-hold.it/100x40/d70000/000000?text=+) |  160   | #d70000 |![#5faf5f](https://place-hold.it/100x40/5faf5f/000000?text=+) |  71    | #5faf5f |
-| 10 |![#d70087](https://place-hold.it/100x40/d70087/000000?text=+) |  162   | #d70087 |![#afd700](https://place-hold.it/100x40/afd700/000000?text=+) |  148   | #afd700 |
+| 10 |![#d70087](https://place-hold.it/100x40/d70087/000000?text=+) |  162   | #d70087 |![#98ac40](https://place-hold.it/100x40/98ac40/000000?text=+) |  148   | #98ac40 |
 | 11 |![#8700af](https://place-hold.it/100x40/8700af/000000?text=+) |  91    | #8700af |![#af87d7](https://place-hold.it/100x40/af87d7/000000?text=+) |  140   | #af87d7 |
 | 12 |![#d75f00](https://place-hold.it/100x40/d75f00/000000?text=+) |  166   | #d75f00 |![#ffaf00](https://place-hold.it/100x40/ffaf00/000000?text=+) |  214   | #ffaf00 |
-| 13 |![#d75f00](https://place-hold.it/100x40/d75f00/000000?text=+) |  166   | #d75f00 |![#ff5faf](https://place-hold.it/100x40/ff5faf/000000?text=+) |  205   | #ff5faf |
+| 13 |![#d75f00](https://place-hold.it/100x40/d75f00/000000?text=+) |  166   | #d75f00 |![#c07098](https://place-hold.it/100x40/c07098/000000?text=+) |  205   | #c07098 |
 | 14 |![#005faf](https://place-hold.it/100x40/005faf/000000?text=+) |  25    | #005faf |![#00afaf](https://place-hold.it/100x40/00afaf/000000?text=+) |  37    | #00afaf |
 | 15 |![#005f87](https://place-hold.it/100x40/005f87/000000?text=+) |  24    | #005f87 |![#5f8787](https://place-hold.it/100x40/5f8787/000000?text=+) |  66    | #5f8787 |
 
